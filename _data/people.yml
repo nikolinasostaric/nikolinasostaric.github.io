@@ -1,7 +1,7 @@
-- firstname: sebastijan
-  lastname: Dumancic
-  img:
-  description: moj muz
-  position: phd
+- firstname: Renske
+  lastname: Voerman
+  img: person.png 
+  description: Interaction network of yeast polarity proteins (with Liedewij Laan)
+  position: msc
   webpage:
   current: true
