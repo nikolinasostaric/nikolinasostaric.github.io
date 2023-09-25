@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Nikolina Šoštarić",
+    "label": "",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "n.sostaric [at] tudelft [dot] nl",
+    "phone": "+31 15 27 84055",
+    "url": "https://nikolinasostaric.github.io",
+    "summary": "Bioinformatician with a backgroud in chemistry",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -24,14 +24,15 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "Sanquin and Oncode Institute, The Netherlands",
+      "position": "Postdoctoral researcher",
+      "url": "https://www.sanquin.org/research/group-leader-overview/t-cell-differentiation/index",
+      "startDate": "2021-09-01",
+      "endDate": "2023-06-30",
+      "summary": "Research on translation and RNA localization in human CD8<sup>+</sup> T cells.",
       "highlights": [
-        "Relativity"
+        "Proteomics and transcriptomics data analysis"
+        "Classification using machine learning"
       ]
     }
   ],
