@@ -14,3 +14,11 @@
   webpage:
   current: true
 
+  - firstname: Stefan
+  lastname: Loonen
+  img:  
+  description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
+  position: msc
+  webpage:
+  current: true
+
