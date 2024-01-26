@@ -1,6 +1,6 @@
 ---
 layout: page
-title: PhD Position: Predicting Compatibility of Network-dependent Enzymes
+title: PhD Position on Predicting Compatibility of Network-dependent Enzymes
 description: A collaboration with Greg Bokinsky
 img: assets/img/FeS.png
 importance: 8
