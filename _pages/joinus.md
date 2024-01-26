@@ -11,5 +11,4 @@ If you're interested in some of the currently offered projects, or have your own
 
 I am currently looking for BEP and MEP students on several topics (see Projects section).
 
-There will also soon be an opening for a Ph.D. student.
-
+I also have an open PhD position on the topic <i>Predicting compatibility of network-dependent enzymes</i>. You can read more and apply at the following <a https://www.tudelft.nl/over-tu-delft/werken-bij-tu-delft/vacatures/details/?nPostingId=5514&nPostingTargetId=16138&id=QEZFK026203F3VBQBLO6G68W9&LG=UK&languageSelect=UK&mask=external>link</a>.

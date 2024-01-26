@@ -4,7 +4,7 @@ title: Spatial distribution of RNA molecules
 description: A collaboration with Monika Wolkers (Sanquin, Amsterdam UMC)
 img: assets/img/smFISH_2.png
 importance: 4
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 
