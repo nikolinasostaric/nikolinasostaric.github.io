@@ -4,7 +4,7 @@ title: Simulating dynamics of lipid bilayers
 description: A collaboration with Marie-Eve Aubin-Tam
 img: assets/img/Lipid_bilayer.jpg
 importance: 3
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 

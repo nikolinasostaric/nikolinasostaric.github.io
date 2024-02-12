@@ -45,3 +45,11 @@
   position: msc
   webpage:
   current: true
+
+- firstname: Eli
+  lastname: Teitler
+  img:
+  description: Simulating dynamics of lipid bilayers (with Marie-Eve Aubin-Tam)
+  position: bsc
+  webpage:
+  current: true
