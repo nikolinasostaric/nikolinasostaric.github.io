@@ -16,4 +16,4 @@ In this project, we want to learn which types of distributions RNAs follow and h
 
 Practically, this project involves you familiarizing yourself with data-analysis methods, including ones where we can make analytical progress. You will learn how to interpret your clusterings both through the data, as well as through a mathematical analysis of the clustering, that should be able help predict when different clustering methods yield different results.
 
-<small>Cover figure: Initial hierarchical clustering based on Pearson coeffieient. </small>
+<small>Cover figure: Initial hierarchical clustering. </small>

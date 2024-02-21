@@ -1,6 +1,6 @@
 - firstname: Jesse
   lastname: Poort
-  img: 
+  img: assets/img/Stefan.jpg
   description: Conservation of FtsZ protein (with Gijsje Koenderink)
   position: bsc
   webpage: 
@@ -24,7 +24,7 @@
 
 - firstname: Ada
   lastname: Precup
-  img:
+  img: assets/img/Ada.jpg
   description: Protein interactions in 3D (with Liedewij Laan)
   position: bsc
   webpage:
@@ -50,6 +50,14 @@
   lastname: Teitler
   img:
   description: Simulating dynamics of lipid bilayers (with Marie-Eve Aubin-Tam)
+  position: bsc
+  webpage:
+  current: true
+
+- firstname: Stephany
+  lastname: Laclé
+  img: assets/img/Stephany.jpeg
+  description: Impact of mutations on teneurin-3 homodimer (with Dimphna Meijer)
   position: bsc
   webpage:
   current: true
