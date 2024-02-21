@@ -1,6 +1,6 @@
 - firstname: Jesse
   lastname: Poort
-  img: assets/img/Stefan.jpg
+  img:
   description: Conservation of FtsZ protein (with Gijsje Koenderink)
   position: bsc
   webpage: 
@@ -16,7 +16,7 @@
 
 - firstname: Stefan
   lastname: Loonen
-  img:
+  img: assets/img/Stefan.jpg
   description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
   position: msc
   webpage:
