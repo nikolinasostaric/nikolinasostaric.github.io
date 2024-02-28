@@ -48,7 +48,7 @@
 
 - firstname: Eli
   lastname: Teitler
-  img:
+  img: assets/img/Eli.jpeg
   description: Simulating dynamics of lipid bilayers (with Marie-Eve Aubin-Tam)
   position: bsc
   webpage:
