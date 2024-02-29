@@ -40,7 +40,7 @@
 
 - firstname: Eva
   lastname: Heemskerk
-  img:
+  img: assets/img/Eva.jpeg
   description: Spatial distribution of RNA molecules (with Monika Wolkers)
   position: msc
   webpage:
