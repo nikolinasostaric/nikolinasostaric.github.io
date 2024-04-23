@@ -28,6 +28,10 @@ In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/facul
 
 </div>
 
+<normal> B.Sc. in Nanobiology, TU Delft </normal>
+
+ - <small> Jesse Poort, *The viability and potential of Mycoplasma mycoides
+subsp. capri genes in liposome minimal cell systems*, 2023-2024 </small>
 
 <normal> M.Sc. in Bioinformatics, KU Leuven </normal>
 
