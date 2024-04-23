@@ -26,6 +26,6 @@ In my research, I love applying computational tools to explore the behaviour of 
 
 I also enjoy spreading the love towards science through both teaching and science popularization efforts.
 
-Before joining TU Delft, I was a postdoctoral researcher at Sanquin Instutite in Amsterdam and an FWO-funded Ph.D. fellow at KU Leuven in Belgium. 
+Before joining TU Delft, I was a postdoctoral researcher at Sanquin Institute in Amsterdam and an FWO-funded Ph.D. fellow at KU Leuven in Belgium. 
 
 
