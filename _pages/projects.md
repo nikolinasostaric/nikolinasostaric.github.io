@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 3
 display_categories: [currently offered, ongoing, past]
-horizontal: true
+horizontal: false
 ---
 
 <!-- pages/projects.md -->

@@ -6,18 +6,18 @@
   webpage: 
   current: false
 
-- firstname: Renske
-  lastname: Voerman
-  img:  
-  description: Interaction network of yeast polarity proteins (with Liedewij Laan)
-  position: msc
-  webpage:
-  current: true
-
 - firstname: Stefan
   lastname: Loonen
   img: assets/img/Stefan.jpg
   description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
+  position: msc
+  webpage:
+  current: true
+
+- firstname: Renske
+  lastname: Voerman
+  img:  
+  description: Interaction network of yeast polarity proteins (with Liedewij Laan)
   position: msc
   webpage:
   current: true

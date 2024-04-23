@@ -52,7 +52,7 @@ horizontal: true
 </div>
 
 <br><br>
-alumni
+# alumni
 <hr>
 
 <div class="projects">
