@@ -118,6 +118,9 @@
 - title: Funding
   type: time_table
   contents:
+    - title: TU Delft - IIT Delhi seed funding
+      year: 2024
+      description: A joint project with Sachin Kumar (IIT Delhi).
     - title: Step into science, a framework for continuous development of scientific thinking in high schools
       year: 2021
       description: European Social Fund, project value 173.717,00 EUR
