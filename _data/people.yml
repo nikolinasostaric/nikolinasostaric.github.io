@@ -9,8 +9,8 @@
 - firstname: Stefan
   lastname: Loonen
   img: assets/img/Stefan.jpg
-  description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
-  position: msc
+  description: Predicting compatibility of network-dependent enzymes (with Greg V Bauer)
+  position: phd
   webpage:
   current: true
 
@@ -28,7 +28,7 @@
   description: Protein interactions in 3D (with Liedewij Laan)
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Owyn
   lastname: Kamerman
@@ -36,12 +36,20 @@
   description: RNA distribution clustering (with Marianne Bauer)
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Eva
   lastname: Heemskerk
   img: assets/img/Eva.jpeg
   description: Spatial distribution of RNA molecules (with Monika Wolkers)
+  position: msc
+  webpage:
+  current: true
+
+- firstname: Lina
+  lastname: van Steenis
+  img:  
+  description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
   position: msc
   webpage:
   current: true
@@ -52,7 +60,7 @@
   description: Simulating dynamics of lipid bilayers (with Marie-Eve Aubin-Tam)
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Stephany
   lastname: Laclé
@@ -60,4 +68,4 @@
   description: Impact of mutations on teneurin-3 homodimer (with Dimphna Meijer)
   position: bsc
   webpage:
-  current: true
+  current: false

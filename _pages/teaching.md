@@ -28,10 +28,20 @@ In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/facul
 
 </div>
 
+<normal> M.Sc. in Nanobiology, TU Delft </normal>
+
+- <small> Stefan Loonen, *Phosphorylation-induced structural dynamics of SARS-CoV-2 N-protein - Insights from molecular dynamics simulations*, 2023-2024 </small>
+
 <normal> B.Sc. in Nanobiology, TU Delft </normal>
 
- - <small> Jesse Poort, *The viability and potential of Mycoplasma mycoides
-subsp. capri genes in liposome minimal cell systems*, 2023-2024 </small>
+ - <small> Ada Maria Precup, *Defining a protein interaction network - Mapping the interaction partners of Spa2 in yeast*, 2023-2024 </small>
+ - <small> Eli Teitler, *Simulating the dynamics of lipid bilayers*, 2023-2024 </small>
+ - <small> Owyn Kamerman, *RNA distribution clustering - Unravelling cytotoxic T-cells*, 2023-2024 </small>
+ - <small> Jesse Poort, *The viability and potential of Mycoplasma mycoides subsp. capri genes in liposome minimal cell systems*, 2023-2024 </small>
+
+<normal> B.Sc. in Life Science & Technology, TU Delft </normal>
+
+ - <small> Stephany Laclé, *The impact of Arg2579Trp mutation on the homodimer formation of mouse teneurin-3*, 2023-2024 </small>
 
 <normal> M.Sc. in Bioinformatics, KU Leuven </normal>
 

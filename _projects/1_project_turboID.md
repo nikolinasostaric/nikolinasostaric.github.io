@@ -4,7 +4,7 @@ title: Protein interactions in 3D
 description: A collaboration with Liedewij Laan
 img: assets/img/TurboID.png
 importance: 1
-category: ongoing
+category: currently offered
 related_publications: 
 ---
 
