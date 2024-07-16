@@ -9,7 +9,7 @@
 - firstname: Stefan
   lastname: Loonen
   img: assets/img/Stefan.jpg
-  description: Predicting compatibility of network-dependent enzymes (with Greg V Bauer)
+  description: Predicting compatibility of network-dependent enzymes (with Greg Bokinsky)
   position: phd
   webpage:
   current: true
@@ -18,6 +18,14 @@
   lastname: Voerman
   img:  
   description: Interaction network of yeast polarity proteins (with Liedewij Laan)
+  position: msc
+  webpage:
+  current: true
+
+- firstname: Carolina
+  lastname: Wagenaar
+  img:  
+  description: Dynamics of photoreactive proteins (with Marileen Dogterom)
   position: msc
   webpage:
   current: true
