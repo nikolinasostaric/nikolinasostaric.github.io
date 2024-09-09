@@ -4,7 +4,7 @@ title: Dynamics of photoreactive proteins
 description: A collaboration with Marileen Dogterom
 img: assets/img/LOV2.png
 importance: 11
-category: starting soon
+category: ongoing
 related_publications: 
 ---
 

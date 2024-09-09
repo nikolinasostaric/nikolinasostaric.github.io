@@ -60,9 +60,37 @@
         - Molecular bacteriology, Anastassios Economou   
         - SecA protein dynamics using smFRET microscopy
 
+- title: Boards
+  type: time_table
+  contents:
+    - year: 2024 -
+      items:
+        - Delft Young Academy board (current co-chair)
+    - year: 2024 - 
+      items:
+        - Bioengineering Institute organizing committee, TU Delft
+    - year: 2024 - 2025
+      items:
+        - Teaching Academy Panel, TU Delft
+    - year: 2023 - present
+      items:
+        - TU Delft Nanobiology Board of Studies
+    - year: 2023 - present
+      items:
+        - Bionanoscience department Education dossier
+
 - title: Professional Training
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - TU Delft Blended Course Design Bootcamp, Dordrect
+    - year: 2024
+      items:
+        - University Teaching Qualification (UTQ), Risbo, Erasmus University Rotterdam
+    - year: 2024
+      items:
+        - MicroLab "How to integrate formative assessment into your course", Risbo, Erasmus University Rotterdam
     - year: 2021
       items:
         - Machine Learning for Bioinformatics and Systems Biology, BioSB course, Amsterdam

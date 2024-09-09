@@ -30,6 +30,14 @@
   webpage:
   current: true
 
+- firstname: Laetitia
+  lastname: Guerin
+  img:  
+  description: Predicting compatibility of network-dependent enzymes
+  position: bsc
+  webpage:
+  current: true
+
 - firstname: Ada
   lastname: Precup
   img: assets/img/Ada.jpg
@@ -56,7 +64,7 @@
 
 - firstname: Lina
   lastname: van Steenis
-  img:  
+  img: assets/img/Lina.jpg
   description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
   position: msc
   webpage:
