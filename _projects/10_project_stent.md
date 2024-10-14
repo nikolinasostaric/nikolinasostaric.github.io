@@ -4,7 +4,7 @@ title: Dynamics of stent-blood protein interactions
 description: A collaboration with Sachin Kumar (IITD)
 img: assets/img/IITD_TUD.png
 importance: 10
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 

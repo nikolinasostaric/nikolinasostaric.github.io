@@ -22,6 +22,14 @@
   webpage:
   current: true
 
+- firstname: Lisa
+  lastname: Baltus
+  img: assets/img/Lisa.jpg
+  description: Dynamics of stent-blood protein interactions (with Sachin Kumar, IITD)
+  position: msc
+  webpage:
+  current: true
+
 - firstname: Carolina
   lastname: Wagenaar
   img: assets/img/Sien.jpg
@@ -57,7 +65,7 @@
 - firstname: Eva
   lastname: Heemskerk
   img: assets/img/Eva.jpeg
-  description: Spatial distribution of RNA molecules (with Monika Wolkers)
+  description: Spatial distribution of RNA molecules (with Monika Wolkers, Sanquin Amsterdam)
   position: msc
   webpage:
   current: true
