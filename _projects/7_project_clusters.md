@@ -4,7 +4,7 @@ title: RNA distribution clustering
 description: A collaboration with Marianne Bauer
 img: assets/img/Clusters2.png
 importance: 7
-category: past
+category: currently offered
 related_publications: 
 ---
 

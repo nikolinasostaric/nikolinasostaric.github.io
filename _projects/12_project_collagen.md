@@ -16,9 +16,7 @@ In this computational project, we aim to simulate different novel ELP designs wi
 
 The project consists of two main parts, constructing the pipeline for the MD simulations (step 2 and 3 in the figure), and, after running the simulations (step 4), analysing the data (step 5). The ELP with the most promising predicted properties will be used for further experimental research in the future. 
 
-<figure>
-  <img src="assets/img/collagen_workflow.png">
-</figure>
+<img src="../assets/img/collagen_workflow.png" alt="">
 
 During this project, you will gain experience with MD simulations and develop a better understanding of protein structure and function and data analysis skills. 
 

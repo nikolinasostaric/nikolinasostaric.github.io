@@ -10,7 +10,7 @@ related_publications:
 
 DNA segregation is one of the requirements in building a synthetic cell. To experimentally construct a DNA segregation system for synthetic cells, we are utilizing bacterial proteins known for plasmid segregation fused with photoreactive proteins to enable light-controlled segregation processes. 
 
-In this project, we would like to acquire a better understanding of the dynamics of these photoreactive proteins and their synthetic constructs, as well as their interactions with DNA. More specifically, we would do 3D modelling and perform molecular dynamics simulations of different LOV2 (<i>l</i>ight, <i>o</i>xygen, or <i>/v</i>oltage) domain constructs.
+In this project, we would like to acquire a better understanding of the dynamics of these photoreactive proteins and their synthetic constructs, as well as their interactions with DNA. More specifically, we would do 3D modelling and perform molecular dynamics simulations of different LOV2 (light, oxygen, or voltage) domain constructs.
 
 For this project, we are looking for a student interested in 3D modelling of biomolecules and molecular dynamics simulations.
 
