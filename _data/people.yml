@@ -1,3 +1,11 @@
+- firstname: Stanislas
+  lastname: Groen
+  img: assets/img/person.png
+  description: Interactome of minimal cell division system (with Gijsje Koenderink)
+  position: bsc
+  webpage: 
+  current: true
+
 - firstname: Jesse
   lastname: Poort
   img: assets/img/Jesse.jpg

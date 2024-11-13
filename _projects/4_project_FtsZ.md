@@ -4,7 +4,7 @@ title: Conservation of FtsZ protein
 description: A collaboration with Gijsje Koenderink
 img: assets/img/FtsZ.png
 importance: 4
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 
