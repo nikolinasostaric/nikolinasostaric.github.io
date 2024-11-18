@@ -16,6 +16,8 @@ In June 2024, I completed University Teaching Qualification (UTQ).
 
 In academic year 2024/2025, I will be a member of TU Delft Teaching Academy Panel.
 
+Starting in 2025, I joined Innovation in Delft Engineering Education (IDEE) on the topic of Teaching and Learning in the Age of AI.
+
 From January 2025, I will start the project "AI-enhanced programming education for applied scientists" as a TU Delft Education Fellow.
 
 
