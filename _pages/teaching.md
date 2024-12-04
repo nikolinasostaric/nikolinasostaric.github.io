@@ -10,6 +10,8 @@ display_categories: [current, past, supervised theses]
 
 I'm currently developing an introductory Python course for 1<sup>st</sup> year of <a href="https://www.studyguide.tudelft.nl/a101_displayProgram.do?program_tree_id=29839">Nanobiology program</a>. The course team took part in the Blended Course Design Bootcamp in Dordrecht, June 2024. Course development is further financially supported by TU Delft ESA and Nanobiology program.
 
+For the purposes of the introductory Python course, I made an open interactive textbook <a href="https://interactivetextbooks.tudelft.nl/programming-foundations/intro.html">Programming Foundations</a>.
+
 In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/faculties/as-student-portal/organisation/board-of-studies-applied-sciences">Board of Studies</a> Nanobiology. I'm also working on restructuring of the bachelor curriculum in Nanobiology.
 
 In June 2024, I completed University Teaching Qualification (UTQ).
