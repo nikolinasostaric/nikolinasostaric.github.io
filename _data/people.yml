@@ -55,8 +55,8 @@
   current: false
 
 - firstname: Laetitia
-  lastname: Guerin
-  img:  
+  lastname: Guérin
+  img: assets/img/Laetitia.png
   description: Predicting compatibility of network-dependent enzymes
   position: bsc
   webpage:
