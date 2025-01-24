@@ -1,3 +1,11 @@
+- firstname: Loyola
+  lastname: Moya Lafuente
+  img: 
+  description: Dynamics of photoreactive proteins (with Marileen Dogterom)
+  position: bsc
+  webpage:
+  current: true
+
 - firstname: Stanislas
   lastname: Groen
   img: assets/img/person.png
@@ -28,7 +36,7 @@
   description: Interaction network of yeast polarity proteins (with Liedewij Laan)
   position: msc
   webpage:
-  current: true
+  current: false
 
 - firstname: Lisa
   lastname: Baltus
@@ -44,7 +52,7 @@
   description: Dynamics of photoreactive proteins (with Marileen Dogterom)
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Laetitia
   lastname: Guerin

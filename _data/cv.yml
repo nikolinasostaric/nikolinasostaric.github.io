@@ -146,6 +146,12 @@
 - title: Funding
   type: time_table
   contents:
+    - title: TU Delft Education Fellowship
+      year: 2025 - 2026
+      description: AI-enhanced programming education for applied scientists.
+    - title: BEI funding - iGEM Next Steps
+      year: 2024
+      description: A joint project with Marcel Vieira-Lara on nitrogen fixation in eukaryotes.
     - title: TU Delft - IIT Delhi seed funding
       year: 2024
       description: A joint project with Sachin Kumar (IIT Delhi).

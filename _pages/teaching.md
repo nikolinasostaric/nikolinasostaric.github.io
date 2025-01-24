@@ -41,10 +41,12 @@ From January 2025, I will start the project "AI-enhanced programming education f
 
 <normal> M.Sc. in Nanobiology, TU Delft </normal>
 
+- <small> Renske Voerman, *Exploring the protein domain interaction map of yeast polarity in 3D using bioinformatic tools*, 2023-2024 </small>
 - <small> Stefan Loonen, *Phosphorylation-induced structural dynamics of SARS-CoV-2 N-protein - Insights from molecular dynamics simulations*, 2023-2024 </small>
 
 <normal> B.Sc. in Nanobiology, TU Delft </normal>
 
+ - <small> Sien Wagenaar, *Engineering a photoreactive ParR substitute for artificial DNA segregation in synthetic cells - insights from molecular dynamics and biophysical characterization*, 2024-2025 </small>
  - <small> Ada Maria Precup, *Defining a protein interaction network - Mapping the interaction partners of Spa2 in yeast*, 2023-2024 </small>
  - <small> Eli Teitler, *Simulating the dynamics of lipid bilayers*, 2023-2024 </small>
  - <small> Owyn Kamerman, *RNA distribution clustering - Unravelling cytotoxic T-cells*, 2023-2024 </small>
