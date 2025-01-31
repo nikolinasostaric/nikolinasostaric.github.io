@@ -1,10 +1,3 @@
-- firstname: Loyola
-  lastname: Moya Lafuente
-  img: 
-  description: Dynamics of photoreactive proteins (with Marileen Dogterom)
-  position: bsc
-  webpage:
-  current: true
 
 - firstname: Stanislas
   lastname: Groen
@@ -109,3 +102,19 @@
   position: bsc
   webpage:
   current: false
+
+- firstname: Loyola
+  lastname: Moya Lafuente
+  img: 
+  description: Dynamics of photoreactive proteins (with Marileen Dogterom)
+  position: bsc
+  webpage:
+  current: true
+
+- firstname: Toma
+  lastname: Vučinić
+  img: 
+  description: Predicting compatibility of network-dependent enzymes
+  position: bsc
+  webpage:
+  current: true
