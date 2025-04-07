@@ -118,3 +118,19 @@
   position: bsc
   webpage:
   current: true
+
+- firstname: Jesse
+  lastname: Oudejans
+  img: 
+  description: Simulating properties of elastin-like peptides
+  position: bsc
+  webpage:
+  current: true
+
+- firstname: Sanju
+  lastname: Singh
+  img: 
+  description: Exploring autoimmune triggers through computational approaches
+  position:
+  webpage:
+  current: true
