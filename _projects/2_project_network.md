@@ -4,7 +4,7 @@ title: Interaction network of yeast polarity proteins
 description: A collaboration with Liedewij Laan
 img: assets/img/Protein_network_2.png
 importance: 2
-category: ongoing
+category: past
 related_publications: 
 ---
 

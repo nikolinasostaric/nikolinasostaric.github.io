@@ -4,7 +4,7 @@ title: Simulating properties of elastin-like polypeptides
 description: A collaboration with Gijsje Koenderink
 img: assets/img/collagen_cover.png
 importance: 12
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 

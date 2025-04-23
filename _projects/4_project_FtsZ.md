@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Conservation of FtsZ protein 
+title: Division in a minimal cell 
 description: A collaboration with Gijsje Koenderink
 img: assets/img/FtsZ.png
 importance: 4
@@ -19,7 +19,9 @@ The project will be co-supervised by Federico Ramirez Gomez.
 <small>Cover figure: FtsZ from Escherichia coli. (PDB ID: 6UMK) </small>
 
 
-Previously in this project (BEP by Jesse Poort):
+
+Previously in this project (BEP by Jesse Poort): Conservation of FtsZ protein
+
 We have investigated the conservation of FtsZ protein across bacterial species. We explored the similarities on sequence level, by finding homologous proteins and building a phylogenetic tree.  Moreover, because proteins with even a moderate sequence similarity may have a conserved 3D structure, we explored similarity of FtsZ proteins from different organisms on 3D structure level, by comparing the overall folds as well as zooming in on specific parts of protein.
 
 
