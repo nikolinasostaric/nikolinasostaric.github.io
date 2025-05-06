@@ -1,3 +1,9 @@
+- date: 2025-04-23 
+  txt: Stefan attends the CSC Spring School on Computational Chemistry 2025 in Helsinki.
+
+- date: 2025-04-16 
+  txt: Stefan presents a poster on predicting heterologous enzymatic activity at AI4Bio conference in Delft.
+
 - date: 2025-03-17
   txt: Sanju joins group for a research visit, and Jesse is starting his Nanobiology BEP. Welcome both!
 
@@ -10,6 +16,9 @@
 - date: 2025-01-24
   txt: Sien defended her Nanobiology BEP <i>Engineering a photoreactive ParR substitute for artificial DNA segregation in synthetic cells - insights from molecular dynamics and biophysical characterization</i>. Congratulations!
 
+- date: 2025-01-24
+  txt: Stefan attends the BioSB Machine Learning course in Amsterdam.
+
 - date: 2024-12-11
   txt: Renske defended her Nanobiology MEP <i>Exploring the protein domain interaction map of yeast polarity in 3D using bioinformatic tools</i>. Congratulations!
 
@@ -20,13 +29,16 @@
   txt: Stanislas joins group for his Nanobiology BEP.
 
 - date: 2024-11-7
-  txt: I’m thrilled to announce that I have been awarded the TU Delft Education Fellowship for my project "AI-enhanced programming education for applied scientists".
+  txt: I'm thrilled to announce that I have been awarded the TU Delft Education Fellowship for my project "AI-enhanced programming education for applied scientists".
 
 - date: 2024-10-28
   txt: I'm joining Innovation in Delft Engineering Education (IDEE) on "Teaching and learning in the age of AI".
 
 - date: 2024-10-7
   txt: Lisa joins group for her Nanobiology MEP.
+
+- date: 2024-10-06
+  txt: Stefan presents at NWO Biophysics conference in Veldhoven.
 
 - date: 2024-09-30
   txt: I'm joining the Teaching Academy panel for the academic year 2024/25.
