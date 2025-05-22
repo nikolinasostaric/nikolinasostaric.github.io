@@ -4,7 +4,7 @@ title: Mutations in teneurin-3
 description: A collaboration with Dimphna Meijer
 img: assets/img/Ten3.png
 importance: 9
-category: currently offered
+category: past
 related_publications: 
 ---
 

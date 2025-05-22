@@ -4,7 +4,7 @@ title: Dynamics of SARS-CoV-2 nucleoprotein
 description: A collaboration with Marianne Bauer
 img: assets/img/SARS_CoV.png
 importance: 6
-category: ongoing
+category: past
 related_publications: 
 ---
 
