@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Watching enzymes wiggle: understanding DERA dynamics
+title: Watching enzymes wiggle- understanding DERA dynamics
 description: A collaboration with Reuben Leveson-Gower and Sebastijan Dumancic
 img: assets/img/DERA.png
 importance: 1
@@ -16,6 +16,6 @@ In this project, we will conduct wet-lab experiments to provide data about neces
 
 The recruited student will start in the wet-lab to learn molecular
 cloning, enzyme expression and activity assays, working closely together with another MEP and PhD in the LevesonGower group (Month 1 and 2). The student then will move to the dry-lab to perform MD simulations and design and
-test the library of mutants (Months 3-6 Šoštarić and Leveson-Gower groups). The resulting data analysed with
-explainable AI at the conclusion of the project (Months 6-8 Dumančić group). 
+test the library of mutants (Months 3-6 Sostaric and Leveson-Gower groups). The resulting data analysed with
+explainable AI at the conclusion of the project (Months 6-8 Dumancic group). 
 
