@@ -16,11 +16,11 @@ In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/facul
 
 In June 2024, I completed University Teaching Qualification (UTQ).
 
-In academic year 2024/2025, I will be a member of TU Delft Teaching Academy Panel.
+In academic year 2024/2025, I was a member of TU Delft Teaching Academy Panel.
 
 Starting in 2025, I joined Innovation in Delft Engineering Education (IDEE) on the topic of Teaching and Learning in the Age of AI.
 
-From January 2025, I will start the project "AI-enhanced programming education for applied scientists" as a TU Delft Education Fellow.
+In January 2025, I started to work on the project "AI-enhanced programming education for applied scientists" as a TU Delft Education Fellow.
 
 
 <div class="projects">
@@ -41,6 +41,8 @@ From January 2025, I will start the project "AI-enhanced programming education f
 
 <normal> M.Sc. in Nanobiology, TU Delft </normal>
 
+- <small> Lina van Steenis, *Structural complementarity drives selective RNA binding by the SARS-CoV-2 nucleocapsid protein*, 2024-2025 </small>
+- <small> Eva Heemskerk, *Spatial localization of cytokine mRNA in CD8+ T cells*, 2024-2025 </small>
 - <small> Renske Voerman, *Exploring the protein domain interaction map of yeast polarity in 3D using bioinformatic tools*, 2023-2024 </small>
 - <small> Stefan Loonen, *Phosphorylation-induced structural dynamics of SARS-CoV-2 N-protein - Insights from molecular dynamics simulations*, 2023-2024 </small>
 

@@ -77,7 +77,7 @@
   description: Spatial distribution of RNA molecules (with Monika Wolkers, Sanquin Amsterdam)
   position: msc
   webpage:
-  current: true
+  current: false
 
 - firstname: Lina
   lastname: van Steenis
@@ -85,7 +85,7 @@
   description: Dynamics of SARS-CoV-2 nucleoprotein (with Marianne Bauer)
   position: msc
   webpage:
-  current: true
+  current: false
 
 - firstname: Eli
   lastname: Teitler
