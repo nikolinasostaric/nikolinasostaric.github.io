@@ -5,7 +5,7 @@ permalink: /team
 description: 
 nav: true
 nav_order: 1
-display_categories: [phd, msc, bsc, visitor]
+display_categories: [phd, msc, bsc, visitor, intern]
 horizontal: true
 ---
 
