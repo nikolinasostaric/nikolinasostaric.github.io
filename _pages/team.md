@@ -70,6 +70,7 @@ horizontal: true
         {% elsif category == "postdoc" %} Postdocs 
         {% elsif category == "msc" %} Master students 
         {% elsif category == "ra" %} Research assistants 
+	{% elsif category == "intern" %} Internship students
         {% elsif category == "bsc" %} Bachelor students 
         {% else %} Visitors {% endif %} 
         </h2>
