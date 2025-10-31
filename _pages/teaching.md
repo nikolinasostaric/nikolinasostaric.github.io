@@ -8,7 +8,7 @@ nav_order: 2
 display_categories: [current, past, supervised theses]
 ---
 
-In 2024/2025, I developen an introductory Python course for 1<sup>st</sup> year of <a href="https://www.studyguide.tudelft.nl/a101_displayProgram.do?program_tree_id=29839">Nanobiology program</a>. The course team took part in the Blended Course Design Bootcamp in Dordrecht, June 2024. Course development was further financially supported by TU Delft ESA and Nanobiology program.
+In 2024/2025, I developed an introductory Python course for 1<sup>st</sup> year of <a href="https://www.studyguide.tudelft.nl/a101_displayProgram.do?program_tree_id=29839">Nanobiology program</a>. The course team took part in the Blended Course Design Bootcamp in Dordrecht, June 2024. Course development was further financially supported by TU Delft ESA and Nanobiology program.
 
 For the purposes of the introductory Python course, I made an open interactive textbook. Its second edition is available <a href="https://books.open.tudelft.nl/home/catalog/book/236">here</a>.
 
