@@ -8,11 +8,11 @@ nav_order: 2
 display_categories: [current, past, supervised theses]
 ---
 
-I'm currently developing an introductory Python course for 1<sup>st</sup> year of <a href="https://www.studyguide.tudelft.nl/a101_displayProgram.do?program_tree_id=29839">Nanobiology program</a>. The course team took part in the Blended Course Design Bootcamp in Dordrecht, June 2024. Course development is further financially supported by TU Delft ESA and Nanobiology program.
+In 2024/2025, I developen an introductory Python course for 1<sup>st</sup> year of <a href="https://www.studyguide.tudelft.nl/a101_displayProgram.do?program_tree_id=29839">Nanobiology program</a>. The course team took part in the Blended Course Design Bootcamp in Dordrecht, June 2024. Course development was further financially supported by TU Delft ESA and Nanobiology program.
 
-For the purposes of the introductory Python course, I made an open interactive textbook <a href="https://books.open.tudelft.nl/home/catalog/book/190">Programming Foundations</a>.
+For the purposes of the introductory Python course, I made an open interactive textbook. Its second edition is available <a href="https://books.open.tudelft.nl/home/catalog/book/236">here</a>.
 
-In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/faculties/as-student-portal/organisation/board-of-studies-applied-sciences">Board of Studies</a> Nanobiology. I'm also working on restructuring of the bachelor curriculum in Nanobiology.
+In September 2023, I joined the <a href="https://www.tudelft.nl/en/student/faculties/as-student-portal/organisation/board-of-studies-applied-sciences">Board of Studies</a> Nanobiology. I also worked on restructuring of the bachelor curriculum in Nanobiology.
 
 In June 2024, I completed University Teaching Qualification (UTQ).
 
@@ -48,6 +48,10 @@ In January 2025, I started to work on the project "AI-enhanced programming educa
 
 <normal> B.Sc. in Nanobiology, TU Delft </normal>
 
+ - <small> Toma Vucinic, *Leveraging Machine Learning to Predict IspG Compatibility Across Organisms*, 2024-2025 </small>
+ - <small> Loyola Moya Lafuente, *On the dynamics of photoreactive proteins: Molecular Dynamics simulations of LOV2 and iLID variants*, 2024-2025 </small>
+ - <small> Jesse Oudejans, *Investigating Alphafold-Initialized Structures in Molecular Dynamics Simulations to Predict LCST Phase Behavior of Elastin-Like Polypeptides*, 2024-2025 </small>
+ - <small> Laetitia Guerin, *Machine Learning for Prediction of Redox Potentials in Iron-Sulfur Proteins*, 2024-2025 </small>
  - <small> Sien Wagenaar, *Engineering a photoreactive ParR substitute for artificial DNA segregation in synthetic cells - insights from molecular dynamics and biophysical characterization*, 2024-2025 </small>
  - <small> Ada Maria Precup, *Defining a protein interaction network - Mapping the interaction partners of Spa2 in yeast*, 2023-2024 </small>
  - <small> Eli Teitler, *Simulating the dynamics of lipid bilayers*, 2023-2024 </small>

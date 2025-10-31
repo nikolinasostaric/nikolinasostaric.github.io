@@ -146,6 +146,9 @@
 - title: Funding
   type: time_table
   contents:
+    - title: BEI funding 
+      year: 2025
+      description: A joint project with Reuben Leveson-Gower and Sebastijan Dumancic on DERA protein dynamics.
     - title: TU Delft Education Fellowship
       year: 2025 - 2026
       description: AI-enhanced programming education for applied scientists.
@@ -171,6 +174,8 @@
 - title: Honors and Awards
   type: list
   contents: 
+    - Educator of the year 2025 - Faculty of Applied Sciences, TU Delft
+    - Educator of the year 2025 - Nanobiology program
     - Open Education Ambassador Award, 2025
     - KU Leuven KICK Challenge Impact Award for best student business plan for a scientific start-up, 2021 
     - Medal for Excellence in M.Sc. studies, 2015

@@ -1,3 +1,50 @@
+- firstname: Lucas
+  lastname: Verhage
+  img: 
+  description: Predicting Compatibility of Network-dependent Enzymes
+  position: intern
+  webpage: 
+  current: true
+
+- firstname: Sem
+  lastname: Widjaja
+  img: 
+  description: Predicting Compatibility of Network-dependent Enzymes
+  position: intern
+  webpage: 
+  current: true
+
+- firstname: Linde
+  lastname: Prins
+  img: 
+  description: Simulating properties of elastin-like polypeptides (with Gijsje Koenderink)
+  position: bsc
+  webpage: 
+  current: true
+
+- firstname: Jasper
+  lastname: Bos
+  img: 
+  description: Dynamics of photoreactive proteins (with Marileen Dogterom)
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Petra
+  lastname: Navarcikova
+  img: assets/img/Petra.png
+  description: Quantifying uncertainty (with Kevin Rossi)
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Blue
+  lastname: Schmitz
+  img:
+  description: Watching enzymes wiggle- understanding DERA dynamics (with Leveson-Gower and Dumancic labs)
+  position: msc
+  webpage: 
+  current: true
 
 - firstname: Stanislas
   lastname: Groen
@@ -53,7 +100,7 @@
   description: Predicting compatibility of network-dependent enzymes
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Ada
   lastname: Precup
@@ -109,7 +156,7 @@
   description: Dynamics of photoreactive proteins (with Marileen Dogterom)
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Toma
   lastname: Vučinić
@@ -117,7 +164,7 @@
   description: Predicting compatibility of network-dependent enzymes
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Jesse
   lastname: Oudejans
@@ -125,7 +172,7 @@
   description: Simulating properties of elastin-like peptides
   position: bsc
   webpage:
-  current: true
+  current: false
 
 - firstname: Sanju
   lastname: Singh
@@ -133,4 +180,4 @@
   description: Exploring autoimmune triggers through computational approaches
   position: visitor
   webpage:
-  current: true
+  current: false

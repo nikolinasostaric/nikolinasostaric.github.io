@@ -4,7 +4,7 @@ title: Watching enzymes wiggle- understanding DERA dynamics
 description: A collaboration with Reuben Leveson-Gower and Sebastijan Dumancic
 img: assets/img/DERA.png
 importance: 1
-category: starting soon
+category: ongoing
 related_publications: 
 ---
 
