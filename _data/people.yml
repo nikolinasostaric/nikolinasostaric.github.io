@@ -1,3 +1,43 @@
+- firstname: Bram  
+  lastname: Fleury
+  img: 
+  description: Aptamers as biosensors (with Alina Rwei)
+  position: bsc
+  webpage: 
+  current: true
+
+- firstname: Nevine 
+  lastname: Noordhoek Hegt
+  img: 
+  description: Aptamers as biosensors (with Alina Rwei)
+  position: bsc
+  webpage: 
+  current: true
+
+- firstname: Mirre 
+  lastname: Rozeboom
+  img: 
+  description: Translation fidelity as a limiting factor of growth rate (with Greg Bokinsky)
+  position: bsc
+  webpage: 
+  current: true
+
+- firstname: Anna 
+  lastname: Borowik
+  img: 
+  description: Predicting Compatibility of Network-dependent Enzymes
+  position: bsc
+  webpage: 
+  current: true
+
+- firstname: Joep 
+  lastname: Dols
+  img: assets/img/Joep.jpg
+  description: Simulating properties of elastin-like polypeptides (with Gijsje Koenderink)
+  position: msc
+  webpage: 
+  current: true
+
 - firstname: Lucas
   lastname: Verhage
   img: 
@@ -12,7 +52,7 @@
   description: Predicting Compatibility of Network-dependent Enzymes
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Linde
   lastname: Prins
@@ -20,7 +60,7 @@
   description: Simulating properties of elastin-like polypeptides (with Gijsje Koenderink)
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Jasper
   lastname: Bos
