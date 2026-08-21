@@ -4,7 +4,7 @@ title: Division in a minimal cell
 description: A collaboration with Gijsje Koenderink
 img: assets/img/FtsZ.png
 importance: 4
-category: ongoing
+category: past
 related_publications: 
 ---
 

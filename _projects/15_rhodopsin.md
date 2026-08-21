@@ -4,7 +4,7 @@ title: Rhodopsin proteins as voltage sensors
 description: A collaboration with Daan Brinks
 img: assets/img/rhodo.png
 importance: 1
-category: currently offered
+category: ongoing
 related_publications: 
 ---
 

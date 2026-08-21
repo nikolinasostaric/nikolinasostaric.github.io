@@ -4,7 +4,7 @@ title: Aptamers as biosensors
 description: A collaboration with Alina Rwei
 img: assets/img/aptamer.png
 importance: 1
-category: currently offered
+category: past
 related_publications: 
 ---
 

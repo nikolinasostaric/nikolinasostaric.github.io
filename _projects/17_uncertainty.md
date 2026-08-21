@@ -4,7 +4,7 @@ title: Quantifying uncertainty
 description: A collaboration with Kevin Rossi
 img: assets/img/proteins.png
 importance: 1
-category: ongoing
+category: currently offered
 related_publications: 
 ---
 

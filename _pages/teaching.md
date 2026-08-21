@@ -46,8 +46,25 @@ In January 2025, I started to work on the project "AI-enhanced programming educa
 - <small> Renske Voerman, *Exploring the protein domain interaction map of yeast polarity in 3D using bioinformatic tools*, 2023-2024 </small>
 - <small> Stefan Loonen, *Phosphorylation-induced structural dynamics of SARS-CoV-2 N-protein - Insights from molecular dynamics simulations*, 2023-2024 </small>
 
+
+<normal> M.Sc. in Applied Physics, TU Delft </normal>
+
+- <small> Petra Navarcikova, *Uncertainty-aware protein folding: from classical force fields to machine learning interatomic potentials*, 2025-2026 </small>
+
+
+<normal> M.Sc. in Bioinformatics and Systems Biology, VU Amsterdam and UvA </normal>
+
+- <small> Blue Schmitz, *Watching enzymes wiggle: understanding DERA dynamics*, 2025-2026 </small>
+
+
 <normal> B.Sc. in Nanobiology, TU Delft </normal>
 
+ - <small> Mirre Rozeboom, *Errors in the machinery: A computational analysis of amino acid misincorporations under ppGpp deficiency in E. coli*, 2025-2026 </small>
+ - <small> Anna Borowik, *Structural dynamics of taxa-dependent electron transfer specificity in IspG orthologs*, 2025-2026 </small>
+ - <small> Nevine Noordhoek Hegt, *Conformational dynamics of the thrombin binding aptamer*, 2025-2026 </small>
+ - <small> Bram Fleury, *MD simulation of a hybridized duplex-tethered TBA system: the influence of linker length*, 2025-2026 </small>
+ - <small> Linde Prins, *Investigating the influence of lysine-residue content in elastin-like polypeptides (ELPs) on their lower critical solution temperature (LCST) using classical molecular dynamics simulations*, 2025-2026 </small>
+ - <small> Stanislas Groen *Molecular dynamics of the M. mycoides minimal divisone*, 2024-2025 </small>
  - <small> Toma Vucinic, *Leveraging Machine Learning to Predict IspG Compatibility Across Organisms*, 2024-2025 </small>
  - <small> Loyola Moya Lafuente, *On the dynamics of photoreactive proteins: Molecular Dynamics simulations of LOV2 and iLID variants*, 2024-2025 </small>
  - <small> Jesse Oudejans, *Investigating Alphafold-Initialized Structures in Molecular Dynamics Simulations to Predict LCST Phase Behavior of Elastin-Like Polypeptides*, 2024-2025 </small>
@@ -57,6 +74,10 @@ In January 2025, I started to work on the project "AI-enhanced programming educa
  - <small> Eli Teitler, *Simulating the dynamics of lipid bilayers*, 2023-2024 </small>
  - <small> Owyn Kamerman, *RNA distribution clustering - Unravelling cytotoxic T-cells*, 2023-2024 </small>
  - <small> Jesse Poort, *The viability and potential of Mycoplasma mycoides subsp. capri genes in liposome minimal cell systems*, 2023-2024 </small>
+
+<normal> B.Sc. in Applied Physics, TU Delft </normal>
+
+ - <small> Sem Widjaja, *Redox-state dependent structural dynamics of the IspG-FldA complex*, 2025-2026 </small>
 
 <normal> B.Sc. in Life Science & Technology, TU Delft </normal>
 

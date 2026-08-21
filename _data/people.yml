@@ -1,10 +1,34 @@
+- firstname: Aliya  
+  lastname: Shilanova
+  img: 
+  description: Predicting compatibility of network-dependent enzymes
+  position: intern
+  webpage: 
+  current: true
+
+- firstname: Eli  
+  lastname: Teitler
+  img: assets/img/Eli.jpeg
+  description: Rhodopsin proteins as voltage sensors (with Daan Brinks)
+  position: msc
+  webpage: 
+  current: true
+
+- firstname: Luuc  
+  lastname: van der A
+  img: 
+  description: Protein interactions in 3D (with Liedewij Laan)
+  position: msc
+  webpage: 
+  current: true
+
 - firstname: Bram  
   lastname: Fleury
   img: 
   description: Aptamers as biosensors (with Alina Rwei)
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Nevine 
   lastname: Noordhoek Hegt
@@ -12,7 +36,7 @@
   description: Aptamers as biosensors (with Alina Rwei)
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Mirre 
   lastname: Rozeboom
@@ -20,7 +44,7 @@
   description: Translation fidelity as a limiting factor of growth rate (with Greg Bokinsky)
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Anna 
   lastname: Borowik
@@ -28,7 +52,7 @@
   description: Predicting Compatibility of Network-dependent Enzymes
   position: bsc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Joep 
   lastname: Dols
@@ -44,7 +68,7 @@
   description: Predicting Compatibility of Network-dependent Enzymes
   position: intern
   webpage: 
-  current: true
+  current: false
 
 - firstname: Sem
   lastname: Widjaja
@@ -76,7 +100,7 @@
   description: Quantifying uncertainty (with Kevin Rossi)
   position: msc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Blue
   lastname: Schmitz
@@ -84,7 +108,7 @@
   description: Watching enzymes wiggle- understanding DERA dynamics (with Leveson-Gower and Dumancic labs)
   position: msc
   webpage: 
-  current: true
+  current: false
 
 - firstname: Stanislas
   lastname: Groen
